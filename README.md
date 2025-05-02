@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Mr. Manrdrack</h1>
+<h1 align="center">👋 Olá! Eu sou o Ricardo Barros ALves Xavier</h1>
 
 <p align="center">
 Desenvolvedor com foco em inteligência artificial, visão computacional e desenvolvimento de sistemas aplicados à tecnologia educacional e à análise de dados.
