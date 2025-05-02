@@ -1,15 +1,15 @@
-<h1 align="center">👋 Olá! Eu sou o Ricardo Barros ALves Xavier</h1>
+<h1 align="center">👋 Olá! Eu sou o Ricardo Barros Alves Xavier</h1>
 
 <p align="center">
-Desenvolvedor com foco em inteligência artificial, visão computacional e desenvolvimento de sistemas aplicados à tecnologia educacional e à análise de dados.
+Desenvolvedor com foco em Back-End.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-- 🎓 Estudante e pesquisador na área de **IA e segurança digital**
-- 👨‍💻 Atualmente trabalhando em: sistema de controle de lotação em academias com visão computacional
+- 🎓 Estudante da Universidade de Pernambuco (UPE), no Curso de Sistemas de Informação
+- 👨‍💻 Atualmente trabalhando em: Pesquisa sobre um Sistema de Controle de Lotação em Academias Com Visão Computacional
 - 📈 Também desenvolvendo ferramentas em **Java, React Native** e **Python**
 - 🧠 Interessado em projetos de **automação, software educacional e segurança de redes**
 
@@ -19,10 +19,10 @@ Desenvolvedor com foco em inteligência artificial, visão computacional e desen
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 
 ---
 
