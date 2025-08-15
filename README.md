@@ -42,5 +42,5 @@ Desenvolvedor com foco em Back-End.
 ---
 
 <p align="center">
-Feito com ❤️ por <strong>@mr-manrdrack</strong>
+Feito por <strong>@mr-manrdrack</strong>
 </p>
